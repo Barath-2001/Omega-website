@@ -3,6 +3,9 @@
 A modern and responsive **product showcase website** for **Omega UPS**, built using **React.js**. The website highlights the company's range of UPS products and their features, offering potential clients a seamless browsing experience.
 
 ---
+Link- https://omegaups.in/ (now tech stack changed)
+Video- https://drive.google.com/file/d/1s5TRYTe6Nwg2JNbRgVItVFoKQaZzJi6J/view?usp=drive_link
+---
 
 ## Features
 - **Product Catalog**: Displays all UPS models with detailed specifications.

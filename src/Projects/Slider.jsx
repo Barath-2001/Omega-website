@@ -9,6 +9,7 @@ import Project2 from './Project2';
 import {Container as Contain} from "react-bootstrap";
 import { Zoom } from 'react-awesome-reveal';
 
+//youtube video embedded links
 let data = [
   {
     img: "https://www.youtube.com/embed/POQex5wF-9A?si=f6gbJQWDfYBQrn9S"

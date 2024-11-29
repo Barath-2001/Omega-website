@@ -8,7 +8,6 @@ A modern and responsive **product showcase website** for **Omega UPS**, built us
 - **Product Catalog**: Displays all UPS models with detailed specifications.
 - **Responsive Design**: Ensures a seamless experience across mobile, tablet, and desktop devices.
 - **Interactive UI**: Smooth navigation and dynamic components for better engagement.
-- **Contact Section**: Includes a form for inquiries and direct communication.
 - **Optimized Performance**: Built with React features like lazy loading and memoization.
 
 ---

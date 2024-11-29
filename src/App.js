@@ -13,7 +13,7 @@ import ProductDetail from "./Components/ProductDetail";
 
 function App() {
   return (
-    
+    //Routing 
     <React.Fragment>
       <Router>
         <Navigation />
@@ -30,7 +30,7 @@ function App() {
             </>
           }>
           </Route> 
-          <Route path="/product-detail" element={<ProductDetail/>}>
+          <Route path="/product-detail" element={<ProductDetail/>}>  //Routing to product deatil page
           </Route>           
         </Routes>
       </Router>

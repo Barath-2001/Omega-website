@@ -2,7 +2,7 @@ import React,{useState} from "react";
 import {Container} from "react-bootstrap";
 function About(){
     const [isOpen,SetIsOpen]=useState(false)
-
+//about us with read more
     return(
         <Container>
         <div class="card cus " id='about' style={{maxWidth:`1200px`}}>
